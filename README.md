@@ -10,12 +10,18 @@
 
 ## 👩‍👧‍👧팀원소개
 
+<div>
+![ari](https://github.com/Choux2/pickup/assets/132531414/5b599460-bbb0-4d8f-b058-cca21b524e4b)
+
 <strong> 김하늘(👑) </strong>
 * 예약하기 및 커뮤니티 파트 구현
   - 예약하기 (1인석 및 다인실)
   - 커뮤니티 기능 (함께해요)
   - 마이페이지 예약 내역
 * 노션 관리
+* 
+</div>
+
 
 
 <strong> 김진희 </strong>
