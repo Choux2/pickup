@@ -1,3 +1,4 @@
+<div align=center>
 # pickup
 
 ### 스터디카페 & 스터디모임 웹 서비스
@@ -44,3 +45,5 @@
 ### Tools
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+
+</div>
