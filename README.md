@@ -1,6 +1,6 @@
 <div align=center>
 
-  # (./title2.png)
+(./teamstudy/images/title2.png)
 
 ### 스터디카페 & 스터디모임 웹 서비스
 가상의 스터디카페를 만들어 좌석 예약, 게시판, 커뮤니티를 즐길 수 있는 전용 웹 서비스
