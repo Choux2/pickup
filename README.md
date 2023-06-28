@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=1a237e&height=200&section=header)
 
-<br><br><br>
+<br><br>
 ![title2](https://github.com/Choux2/pickup/assets/132531414/25820b60-e799-49fa-8bf9-d3c6246374f6)
 
 가상의 스터디카페를 만들어 좌석 예약, 게시판, 커뮤니티를 즐길 수 있는 전용 웹 서비스
