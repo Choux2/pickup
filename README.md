@@ -23,12 +23,13 @@
 
 <br><br>
 
-<div align=center>
   
 ## 📆 개발기간
 
 <br>
 
+<div align=center>
+ 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
 | **2023.05.04 - .05** | **주제선정** | 가상의 스터디카페 웹페이지를 구성하기로 결정 |
@@ -38,9 +39,17 @@
 | **2023.05.22 - .26** | **백엔드 기능 구현** | 데이터베이스 연동 및 활용 개발 |
 | **2023.05.29 - .31** | **마무리** | 디버깅 작업 및 발표준비 |
 
+</div>
+
+<br><br>
+
+ 
+## 🛠️개발환경
+
 <br>
 
-## 개발환경
+<div align=center>
+ 
 ### Front End
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
