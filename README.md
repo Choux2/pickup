@@ -13,31 +13,14 @@
 <div align=center>
 
 <br><br>
-<img src="./p3.png" width="220" height="220"> <img src="./p2.png" width="220" height="220"> <img src="./p1.png" width="220" height="220">
+ 
+| <img src="./p2.png" width="220" height="220"> |  <img src="./p3.png" width="220" height="220">| <img src="./p1.png" width="220" height="220"> |
+| ------- | ------- | ------- |
+| **👑김하늘** | **김진희** | **박예림**  |
+| * 예약하기 및 커뮤니티 파트 구현 <br> -예약하기(1인석 및 다인실)| * 게시판 파트 구현 | * 회원관리 파트 구현 |
 
-<div margin-left = 100>
 
-   <strong> 김진희</strong>  <strong> 👑김하늘 </strong>  <strong> 박예림 </strong>
 
-</div>
-
-       * 게시판 파트 구현
-        - 게시글 및 댓글 작성
-        - 작성 내용 수정 및 삭제 기능
-        - 마이페이지 게시글 리스트
-       * 메인페이지 관리
-      
-      * 예약하기 및 커뮤니티 파트 구현
-         - 예약하기 (1인석 및 다인실)
-         - 커뮤니티 기능 (함께해요)
-         - 마이페이지 예약 내역
-       * 노션 관리
-    
-      * 회원관리 파트 구현
-        - 로그인 및 회원가입
-        - 회원 정보 수정 및 탈퇴
-       * 마이페이지 관리
-   
 </div>
 
 <div align=center>
