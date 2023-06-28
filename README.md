@@ -1,9 +1,15 @@
+
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <br><br><br>
 ![title2](https://github.com/Choux2/pickup/assets/132531414/25820b60-e799-49fa-8bf9-d3c6246374f6)
 
 가상의 스터디카페를 만들어 좌석 예약, 게시판, 커뮤니티를 즐길 수 있는 전용 웹 서비스
+
+ [🔎피크업 바로가기](http://dbfld123.dothome.co.kr/)
+
 </div>
 
 <br><br>
@@ -69,3 +75,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 </div>
+
+
+
